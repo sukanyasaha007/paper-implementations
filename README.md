@@ -12,6 +12,13 @@ The code puts readability and comments ahead of speed. Comments record what I wo
 
 Full citations (BibTeX) are in each folder's README.
 
+## What's next
+
+- [ROADMAP.md](ROADMAP.md): the papers I plan to implement next, in three tracks (LLMs up to DeepSeek-V4.1-Flash,
+  vision and multimodal models, and RL for LLMs), with time estimates.
+- [core_concepts/](core_concepts/): short notebooks for the ideas each paper depends on, each with a reference
+  implementation, a small experiment, and drills to write from memory.
+
 ## How each folder is organized
 
 Every paper has its own folder with:
