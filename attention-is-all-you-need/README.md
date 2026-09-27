@@ -1,6 +1,41 @@
 # Attention Is All You Need: Transformer from scratch
 
-PyTorch implementation of the encoder-decoder Transformer from [Vaswani et al., 2017](https://arxiv.org/abs/1706.03762), trained for English → Italian translation on [opus_books](https://huggingface.co/datasets/Helsinki-NLP/opus_books).
+PyTorch implementation of the encoder-decoder Transformer, trained for English → Italian translation on [opus_books](https://huggingface.co/datasets/Helsinki-NLP/opus_books).
+
+## Paper
+
+**Attention Is All You Need**
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
+*Advances in Neural Information Processing Systems 30 (NeurIPS 2017)*
+
+- arXiv: https://arxiv.org/abs/1706.03762
+- PDF: https://arxiv.org/pdf/1706.03762
+- Proceedings: https://papers.nips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
+
+```bibtex
+@inproceedings{vaswani2017attention,
+  title     = {Attention Is All You Need},
+  author    = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, {\L}ukasz and Polosukhin, Illia},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {30},
+  year      = {2017}
+}
+```
+
+## Related papers
+
+Used for [attention_variants.py](attention_variants.py), which goes beyond the original paper:
+
+| Paper | Authors | Venue | Link | Used for |
+|---|---|---|---|---|
+| Fast Transformer Decoding: One Write-Head is All You Need | Noam Shazeer | arXiv 2019 | [arXiv:1911.02150](https://arxiv.org/abs/1911.02150) | Multi-query attention, and caching keys/values during incremental decoding |
+| GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints | Ainslie, Lee-Thorp, de Jong, Zemlyanskiy, Lebrón, Sanghai | EMNLP 2023 | [arXiv:2305.13245](https://arxiv.org/abs/2305.13245) | Grouped-query attention |
+
+## Dataset
+
+[opus_books](https://huggingface.co/datasets/Helsinki-NLP/opus_books), from the OPUS collection: Jörg Tiedemann, *Parallel Data, Tools and Interfaces in OPUS*, LREC 2012.
+
+## Learning resources
 
 Followed along with Umar Jamil's videos:
 - [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://www.youtube.com/watch?v=bCz4OMemCcA)
