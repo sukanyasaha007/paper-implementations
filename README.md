@@ -9,6 +9,8 @@ The code puts readability and comments ahead of speed. Comments record what I wo
 | Paper | Authors | Venue | Links | Implementation |
 |---|---|---|---|---|
 | Attention Is All You Need | Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin | NeurIPS 2017 | [arXiv:1706.03762](https://arxiv.org/abs/1706.03762) · [PDF](https://arxiv.org/pdf/1706.03762) · [Proceedings](https://papers.nips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | [attention-is-all-you-need/](attention-is-all-you-need/): encoder-decoder Transformer, English → Italian translation, greedy decoding, attention heatmaps, KV cache, grouped-query attention |
+| LoRA: Low-Rank Adaptation of Large Language Models | Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, Chen | ICLR 2022 | [arXiv:2106.09685](https://arxiv.org/abs/2106.09685) · [PDF](https://arxiv.org/pdf/2106.09685) | [lora/](lora/): LoRA as a weight parametrization; rank-1 adapters (0.23% extra parameters) fine-tune an MNIST MLP, and switching them off recovers the original model exactly |
+| High-Resolution Image Synthesis with Latent Diffusion Models | Rombach, Blattmann, Lorenz, Esser, Ommer | CVPR 2022 | [arXiv:2112.10752](https://arxiv.org/abs/2112.10752) · [PDF](https://arxiv.org/pdf/2112.10752) | [stable-diffusion/](stable-diffusion/): Stable Diffusion v1.5 architecture (VAE, CLIP text encoder, U-Net, DDPM sampler) with parameter counts matching v1.5 exactly; text-to-image pipeline in progress |
 
 Full citations (BibTeX) are in each folder's README.
 
@@ -24,7 +26,7 @@ Full citations (BibTeX) are in each folder's README.
 Every paper has its own folder with:
 
 - `README.md`: the paper, the resources I learned from, how to run the code, and notes on the tricky parts
-- `model.py`: the architecture from the paper
+- `model.py` (or one module per component for larger models): the architecture from the paper
 - training, evaluation and visualization scripts where they apply
 - `smoke_test.py`: fast checks on random data that need no dataset download
 - `requirements.txt`: that folder's dependencies
