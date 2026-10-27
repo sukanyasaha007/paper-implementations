@@ -1,0 +1,50 @@
+{
+ "fine_tune_digit": 9,
+ "original_parameters": 3818010,
+ "lora_parameters": 8794,
+ "before_fine_tune": {
+  "accuracy": 0.8757,
+  "wrong_by_digit": [
+   118,
+   72,
+   134,
+   163,
+   54,
+   120,
+   82,
+   75,
+   110,
+   315
+  ]
+ },
+ "lora_enabled": {
+  "accuracy": 0.3767,
+  "wrong_by_digit": [
+   450,
+   1059,
+   259,
+   683,
+   882,
+   655,
+   242,
+   1028,
+   974,
+   1
+  ]
+ },
+ "lora_disabled": {
+  "accuracy": 0.8757,
+  "wrong_by_digit": [
+   118,
+   72,
+   134,
+   163,
+   54,
+   120,
+   82,
+   75,
+   110,
+   315
+  ]
+ }
+}

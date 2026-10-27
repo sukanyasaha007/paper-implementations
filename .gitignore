@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded datasets, checkpoints and training logs
+data/
+weights/
+runs/
+*.pt
+*.ckpt
+*.safetensors
