@@ -1,0 +1,92 @@
+{
+ "reference": {
+  "mean_reward": 0.6139074563980103,
+  "std_error": 0.02720930613577366,
+  "n_prompts": 200
+ },
+ "dpo": {
+  "mean_reward": 0.7314300537109375,
+  "std_error": 0.025090135633945465,
+  "n_prompts": 200
+ },
+ "mean_reward_gap": 0.23488514446853515,
+ "config": {
+  "policy_model": "lvwerra/gpt2-imdb",
+  "reward_model": "lvwerra/distilbert-imdb",
+  "dataset": "stanfordnlp/imdb",
+  "prompt_length": 8,
+  "response_length": 8,
+  "num_train_prompts": 12800,
+  "num_eval_prompts": 200,
+  "seed": 0,
+  "ppo_batch_size": 64,
+  "ppo_steps": 200,
+  "ppo_epochs": 4,
+  "ppo_mini_batch_size": 16,
+  "ppo_lr": 1e-05,
+  "kl_beta": 0.1,
+  "clip_epsilon": 0.2,
+  "gamma": 1.0,
+  "gae_lambda": 0.95,
+  "value_coeff": 0.1,
+  "entropy_coeff": 0.0,
+  "num_dpo_pairs": 256,
+  "dpo_epochs": 3,
+  "dpo_batch_size": 8,
+  "dpo_lr": 1e-05,
+  "dpo_beta": 0.1,
+  "results_dir": "results"
+ },
+ "samples": [
+  {
+   "prompt": "This movie was awesome. It's a",
+   "reference": " sub take on killer fish and its supposed",
+   "dpo": " very touching tale of an innocent man."
+  },
+  {
+   "prompt": "When the Italians and Miles O'kee",
+   "reference": " it's always great to see such a",
+   "dpo": " brothers converge for a rides-night,"
+  },
+  {
+   "prompt": "Forget what I said about Emeril",
+   "reference": " Lagos But better late than never,",
+   "dpo": "' HBO But better late than never,"
+  },
+  {
+   "prompt": "This is one of my 3 favorite movies",
+   "reference": " of all time from Toy Boy, which",
+   "dpo": " of all time from Toy Story 3."
+  },
+  {
+   "prompt": "Oh boy ! It was just a dream",
+   "reference": " I had. This movie is the best",
+   "dpo": " I had. This movie is the best"
+  },
+  {
+   "prompt": "This is one of my favorite T.",
+   "reference": "O films. Clearly his second among Angelo",
+   "dpo": "V films. Clearly his second among his"
+  },
+  {
+   "prompt": "I expected a lot more out of this",
+   "reference": " than I received. All the characters are",
+   "dpo": " than I received. It really helped to"
+  },
+  {
+   "prompt": "A bus drops off a nameless man",
+   "reference": " wanted by a girl who arrives at his",
+   "dpo": " wanted by a girl who arrives home alone"
+  },
+  {
+   "prompt": "Shuai is a burly and",
+   "reference": " checkered little actor (and,",
+   "dpo": " checkered little actor with an incredible"
+  },
+  {
+   "prompt": "When just days away before the film's",
+   "reference": " release in Russia, I wondered aloud how",
+   "dpo": " release in Russia, I wondered aloud how"
+  }
+ ]
+}

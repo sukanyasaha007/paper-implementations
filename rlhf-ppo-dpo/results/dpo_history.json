@@ -1,0 +1,578 @@
+[
+ {
+  "loss": 0.6718925833702087,
+  "mean_preference_probability": 0.5115838050842285,
+  "gradient_norm": 6.421839237213135,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6731264591217041,
+  "mean_preference_probability": 0.5115383267402649,
+  "gradient_norm": 7.276289939880371,
+  "epoch": 1
+ },
+ {
+  "loss": 0.711001992225647,
+  "mean_preference_probability": 0.4942602515220642,
+  "gradient_norm": 6.756588935852051,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7215186357498169,
+  "mean_preference_probability": 0.48881134390830994,
+  "gradient_norm": 6.800112247467041,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6509898900985718,
+  "mean_preference_probability": 0.5241681337356567,
+  "gradient_norm": 6.270973205566406,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6966190338134766,
+  "mean_preference_probability": 0.5010436773300171,
+  "gradient_norm": 6.465511322021484,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7217367887496948,
+  "mean_preference_probability": 0.48726940155029297,
+  "gradient_norm": 6.443198204040527,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7084888815879822,
+  "mean_preference_probability": 0.4961201548576355,
+  "gradient_norm": 7.054529190063477,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7030370235443115,
+  "mean_preference_probability": 0.4958031177520752,
+  "gradient_norm": 5.849648952484131,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6594266891479492,
+  "mean_preference_probability": 0.5178889036178589,
+  "gradient_norm": 6.170268535614014,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6712797284126282,
+  "mean_preference_probability": 0.5139018893241882,
+  "gradient_norm": 7.100444793701172,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7237870693206787,
+  "mean_preference_probability": 0.4861399233341217,
+  "gradient_norm": 7.245184898376465,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6810585260391235,
+  "mean_preference_probability": 0.5080727338790894,
+  "gradient_norm": 6.983003616333008,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7399311065673828,
+  "mean_preference_probability": 0.47930940985679626,
+  "gradient_norm": 7.144662380218506,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7413632869720459,
+  "mean_preference_probability": 0.47752994298934937,
+  "gradient_norm": 6.470927715301514,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6535807847976685,
+  "mean_preference_probability": 0.5218344926834106,
+  "gradient_norm": 6.761641979217529,
+  "epoch": 1
+ },
+ {
+  "loss": 0.671951174736023,
+  "mean_preference_probability": 0.5121852159500122,
+  "gradient_norm": 6.668148040771484,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6525625586509705,
+  "mean_preference_probability": 0.5220661163330078,
+  "gradient_norm": 6.721698760986328,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6767020225524902,
+  "mean_preference_probability": 0.5092763900756836,
+  "gradient_norm": 7.1451311111450195,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6965753436088562,
+  "mean_preference_probability": 0.5034109354019165,
+  "gradient_norm": 5.847024917602539,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7720820307731628,
+  "mean_preference_probability": 0.465215802192688,
+  "gradient_norm": 6.548696994781494,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6946492791175842,
+  "mean_preference_probability": 0.501822829246521,
+  "gradient_norm": 7.477658748626709,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6825249195098877,
+  "mean_preference_probability": 0.5056537389755249,
+  "gradient_norm": 6.876241683959961,
+  "epoch": 1
+ },
+ {
+  "loss": 0.716227650642395,
+  "mean_preference_probability": 0.4907682240009308,
+  "gradient_norm": 6.977232933044434,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7156995534896851,
+  "mean_preference_probability": 0.4930746555328369,
+  "gradient_norm": 6.3084025382995605,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6932350993156433,
+  "mean_preference_probability": 0.5028775334358215,
+  "gradient_norm": 6.832226753234863,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7136749029159546,
+  "mean_preference_probability": 0.4903218150138855,
+  "gradient_norm": 7.306658744812012,
+  "epoch": 1
+ },
+ {
+  "loss": 0.783316433429718,
+  "mean_preference_probability": 0.463176429271698,
+  "gradient_norm": 7.488439083099365,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6626052260398865,
+  "mean_preference_probability": 0.5165059566497803,
+  "gradient_norm": 5.963165760040283,
+  "epoch": 1
+ },
+ {
+  "loss": 0.6638901829719543,
+  "mean_preference_probability": 0.517467737197876,
+  "gradient_norm": 6.544105529785156,
+  "epoch": 1
+ },
+ {
+  "loss": 0.653066098690033,
+  "mean_preference_probability": 0.5221655368804932,
+  "gradient_norm": 6.761721134185791,
+  "epoch": 1
+ },
+ {
+  "loss": 0.7113947868347168,
+  "mean_preference_probability": 0.4951375722885132,
+  "gradient_norm": 7.984217166900635,
+  "epoch": 1
+ },
+ {
+  "loss": 0.43515145778656006,
+  "mean_preference_probability": 0.6495065689086914,
+  "gradient_norm": 4.626540660858154,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5379354953765869,
+  "mean_preference_probability": 0.5864788293838501,
+  "gradient_norm": 6.180333614349365,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5532081723213196,
+  "mean_preference_probability": 0.5785698294639587,
+  "gradient_norm": 6.0017008781433105,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5337443351745605,
+  "mean_preference_probability": 0.587346076965332,
+  "gradient_norm": 5.038998126983643,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5387214422225952,
+  "mean_preference_probability": 0.5839710831642151,
+  "gradient_norm": 5.460201740264893,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5678622722625732,
+  "mean_preference_probability": 0.5696548223495483,
+  "gradient_norm": 5.663682460784912,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5589215159416199,
+  "mean_preference_probability": 0.5758829712867737,
+  "gradient_norm": 5.468496322631836,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6040024757385254,
+  "mean_preference_probability": 0.5500587224960327,
+  "gradient_norm": 6.372837543487549,
+  "epoch": 2
+ },
+ {
+  "loss": 0.528673529624939,
+  "mean_preference_probability": 0.5918265581130981,
+  "gradient_norm": 5.209558486938477,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6024637222290039,
+  "mean_preference_probability": 0.5499498844146729,
+  "gradient_norm": 5.9795684814453125,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5839332938194275,
+  "mean_preference_probability": 0.5600590705871582,
+  "gradient_norm": 5.595473766326904,
+  "epoch": 2
+ },
+ {
+  "loss": 0.530677318572998,
+  "mean_preference_probability": 0.5896720290184021,
+  "gradient_norm": 5.3504862785339355,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5827696323394775,
+  "mean_preference_probability": 0.5627704858779907,
+  "gradient_norm": 6.046340465545654,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6011701822280884,
+  "mean_preference_probability": 0.550886869430542,
+  "gradient_norm": 6.441530704498291,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6123284697532654,
+  "mean_preference_probability": 0.5448251962661743,
+  "gradient_norm": 5.492958068847656,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5679843425750732,
+  "mean_preference_probability": 0.5677233934402466,
+  "gradient_norm": 5.863886833190918,
+  "epoch": 2
+ },
+ {
+  "loss": 0.553797721862793,
+  "mean_preference_probability": 0.5781384706497192,
+  "gradient_norm": 5.943521976470947,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6268211603164673,
+  "mean_preference_probability": 0.5361731052398682,
+  "gradient_norm": 6.838300704956055,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5585105419158936,
+  "mean_preference_probability": 0.5746552348136902,
+  "gradient_norm": 6.463406085968018,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5275074243545532,
+  "mean_preference_probability": 0.5930801630020142,
+  "gradient_norm": 5.036696434020996,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5701949596405029,
+  "mean_preference_probability": 0.5666242241859436,
+  "gradient_norm": 5.178737163543701,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6018481850624084,
+  "mean_preference_probability": 0.550740122795105,
+  "gradient_norm": 6.5961713790893555,
+  "epoch": 2
+ },
+ {
+  "loss": 0.538989782333374,
+  "mean_preference_probability": 0.5904146432876587,
+  "gradient_norm": 6.2160797119140625,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5907028913497925,
+  "mean_preference_probability": 0.5603693723678589,
+  "gradient_norm": 6.236828327178955,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6070263385772705,
+  "mean_preference_probability": 0.5479804277420044,
+  "gradient_norm": 5.604094505310059,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5725963115692139,
+  "mean_preference_probability": 0.5689826011657715,
+  "gradient_norm": 6.308584690093994,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5948512554168701,
+  "mean_preference_probability": 0.5526995658874512,
+  "gradient_norm": 6.5852155685424805,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6263991594314575,
+  "mean_preference_probability": 0.53792804479599,
+  "gradient_norm": 6.347142219543457,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5646974444389343,
+  "mean_preference_probability": 0.5725468397140503,
+  "gradient_norm": 5.685883522033691,
+  "epoch": 2
+ },
+ {
+  "loss": 0.5928947925567627,
+  "mean_preference_probability": 0.5571494102478027,
+  "gradient_norm": 6.341821670532227,
+  "epoch": 2
+ },
+ {
+  "loss": 0.550643801689148,
+  "mean_preference_probability": 0.5820677280426025,
+  "gradient_norm": 5.926470756530762,
+  "epoch": 2
+ },
+ {
+  "loss": 0.6172078847885132,
+  "mean_preference_probability": 0.547401487827301,
+  "gradient_norm": 6.759804725646973,
+  "epoch": 2
+ },
+ {
+  "loss": 0.3505748510360718,
+  "mean_preference_probability": 0.7052454948425293,
+  "gradient_norm": 4.168593883514404,
+  "epoch": 3
+ },
+ {
+  "loss": 0.5069035887718201,
+  "mean_preference_probability": 0.6038907766342163,
+  "gradient_norm": 5.901171684265137,
+  "epoch": 3
+ },
+ {
+  "loss": 0.43269774317741394,
+  "mean_preference_probability": 0.6509600877761841,
+  "gradient_norm": 4.806556224822998,
+  "epoch": 3
+ },
+ {
+  "loss": 0.46574461460113525,
+  "mean_preference_probability": 0.630548357963562,
+  "gradient_norm": 4.941438674926758,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4152916371822357,
+  "mean_preference_probability": 0.661614179611206,
+  "gradient_norm": 4.67270565032959,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4593704342842102,
+  "mean_preference_probability": 0.6334079504013062,
+  "gradient_norm": 4.839420318603516,
+  "epoch": 3
+ },
+ {
+  "loss": 0.45222756266593933,
+  "mean_preference_probability": 0.6444538831710815,
+  "gradient_norm": 4.538754463195801,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4648885428905487,
+  "mean_preference_probability": 0.6358155608177185,
+  "gradient_norm": 5.127151966094971,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4572272002696991,
+  "mean_preference_probability": 0.6348470449447632,
+  "gradient_norm": 4.468699932098389,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4854431748390198,
+  "mean_preference_probability": 0.6180793046951294,
+  "gradient_norm": 4.702105522155762,
+  "epoch": 3
+ },
+ {
+  "loss": 0.5194414854049683,
+  "mean_preference_probability": 0.6002762913703918,
+  "gradient_norm": 5.501818656921387,
+  "epoch": 3
+ },
+ {
+  "loss": 0.48249533772468567,
+  "mean_preference_probability": 0.6186845898628235,
+  "gradient_norm": 5.308272838592529,
+  "epoch": 3
+ },
+ {
+  "loss": 0.5072546005249023,
+  "mean_preference_probability": 0.6032692790031433,
+  "gradient_norm": 5.621872901916504,
+  "epoch": 3
+ },
+ {
+  "loss": 0.5341989994049072,
+  "mean_preference_probability": 0.588364839553833,
+  "gradient_norm": 5.8831095695495605,
+  "epoch": 3
+ },
+ {
+  "loss": 0.537684440612793,
+  "mean_preference_probability": 0.5881105661392212,
+  "gradient_norm": 4.865340232849121,
+  "epoch": 3
+ },
+ {
+  "loss": 0.5425087213516235,
+  "mean_preference_probability": 0.5847172141075134,
+  "gradient_norm": 5.664434432983398,
+  "epoch": 3
+ },
+ {
+  "loss": 0.41575008630752563,
+  "mean_preference_probability": 0.6642897725105286,
+  "gradient_norm": 5.0074262619018555,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4779216945171356,
+  "mean_preference_probability": 0.6265699863433838,
+  "gradient_norm": 5.510683536529541,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4626670777797699,
+  "mean_preference_probability": 0.6317870020866394,
+  "gradient_norm": 5.470947265625,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4344936013221741,
+  "mean_preference_probability": 0.654769778251648,
+  "gradient_norm": 4.492818355560303,
+  "epoch": 3
+ },
+ {
+  "loss": 0.5293235778808594,
+  "mean_preference_probability": 0.596238911151886,
+  "gradient_norm": 5.126110553741455,
+  "epoch": 3
+ },
+ {
+  "loss": 0.488127738237381,
+  "mean_preference_probability": 0.6163009405136108,
+  "gradient_norm": 5.583395481109619,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4503920078277588,
+  "mean_preference_probability": 0.6402751207351685,
+  "gradient_norm": 5.1908698081970215,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4921368956565857,
+  "mean_preference_probability": 0.6214494705200195,
+  "gradient_norm": 5.608362197875977,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4474816918373108,
+  "mean_preference_probability": 0.644252598285675,
+  "gradient_norm": 4.6999969482421875,
+  "epoch": 3
+ },
+ {
+  "loss": 0.45859745144844055,
+  "mean_preference_probability": 0.6379677057266235,
+  "gradient_norm": 5.161664962768555,
+  "epoch": 3
+ },
+ {
+  "loss": 0.45853641629219055,
+  "mean_preference_probability": 0.6377584338188171,
+  "gradient_norm": 5.4825119972229,
+  "epoch": 3
+ },
+ {
+  "loss": 0.5041444301605225,
+  "mean_preference_probability": 0.607783317565918,
+  "gradient_norm": 5.4877705574035645,
+  "epoch": 3
+ },
+ {
+  "loss": 0.42505353689193726,
+  "mean_preference_probability": 0.6623959541320801,
+  "gradient_norm": 4.620154857635498,
+  "epoch": 3
+ },
+ {
+  "loss": 0.43975502252578735,
+  "mean_preference_probability": 0.6453856825828552,
+  "gradient_norm": 4.613375186920166,
+  "epoch": 3
+ },
+ {
+  "loss": 0.4177606999874115,
+  "mean_preference_probability": 0.6610519289970398,
+  "gradient_norm": 5.366271018981934,
+  "epoch": 3
+ },
+ {
+  "loss": 0.5381352305412292,
+  "mean_preference_probability": 0.5880669951438904,
+  "gradient_norm": 6.198252201080322,
+  "epoch": 3
+ }
+]
